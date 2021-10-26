@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yassineCh
+- 👋 Hi, I’m Yassine Chemingui, a machine learning engineer
 - 👀 I’m interested in machine learning broadly, specifically reinforcement learning
 - 🌱 I’m currently learning more about the field through projects
-- 💞️ I’m looking to open to collaborations in research, industries or for fun
+- 💞️ I’m open for collaborations in research, industries or for fun
 - 📫 How to reach me: yassinechemingui4@gmail.com
 
 <!---
